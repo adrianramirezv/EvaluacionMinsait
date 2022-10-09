@@ -16,7 +16,7 @@ public class main {
 	private static SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 
 	public static void main(String[] args) {
-		System.out.println("Entrando desde rama DEVELOP");
+		System.out.println("Entrando desde rama QA");
 		inicio();
 	}
 
